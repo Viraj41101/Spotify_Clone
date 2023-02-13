@@ -115,6 +115,11 @@ nav ul li{
     transition: opacity 0.4s ease-in;
 }
 
+#masterSongName {
+    text-align: center;
+    align-items: center;
+}
+
 @media only screen and (max-width: 1100px) {
     body {
       background-color: red;
@@ -142,7 +147,7 @@ nav ul li{
     }
 
     .songName{
-        font-size: 15px;
+        font-size: 12px;
     }
 } 
 
